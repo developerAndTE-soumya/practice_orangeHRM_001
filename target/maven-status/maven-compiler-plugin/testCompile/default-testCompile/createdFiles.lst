@@ -1,0 +1,14 @@
+com\orangehrm\pages\BasePage.class
+com\orangehrm\utilities\Log.class
+com\orangehrm\utilities\ExcelUtil.class
+com\orangehrm\pages\EmployeelistPage.class
+com\orangehrm\tests\BaseTest.class
+com\orangehrm\pages\DeleteEmployee.class
+com\orangehrm\tests\AddEmployeeTest.class
+com\orangehrm\reports\ScreenShotUtil.class
+com\orangehrm\tests\DeleteEmployeeTest.class
+com\orangehrm\pages\AddEmployeePage.class
+com\orangehrm\pages\LoginPage.class
+com\orangehrm\utilities\PropertyUtil.class
+com\orangehrm\reports\ExtentReportUtil.class
+com\orangehrm\tests\LoginTest.class

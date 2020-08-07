@@ -1,0 +1,703 @@
+2020-07-07 20:45:22,438 INFO  [Log] testing..... 
+2020-07-07 20:46:53,038 INFO  [Log] testing..... 
+2020-07-07 20:49:37,634 INFO  [Log] testing..... 
+2020-07-08 20:10:16,657 INFO  [Log] **************************verifyLoginWithValidCredentials*********************** 
+2020-07-08 20:10:16,658 INFO  [Log] Successfully launched the Browser 
+2020-07-08 20:10:17,125 INFO  [Log] Successfully launched the application 
+2020-07-08 20:10:25,115 INFO  [Log] Entered username: admin 
+2020-07-08 20:10:25,305 INFO  [Log] Entered Password: Livetech@123 
+2020-07-08 20:10:35,007 INFO  [Log] Click on Login 
+2020-07-08 20:18:20,115 INFO  [Log] **************************verifyLoginWithValidCredentials*********************** 
+2020-07-08 20:18:20,148 INFO  [Log] Successfully launched the Browser 
+2020-07-08 20:18:20,562 INFO  [Log] Successfully launched the application 
+2020-07-08 20:18:26,736 INFO  [Log] Entered username: admin 
+2020-07-08 20:18:26,938 INFO  [Log] Entered Password: Livetech@123 
+2020-07-08 20:18:29,500 INFO  [Log] Click on Login 
+2020-07-10 16:33:51,450 INFO  [Log] **************************verifyLoginWithValidCredentials*********************** 
+2020-07-10 16:33:51,451 INFO  [Log] Successfully launched the Browser 
+2020-07-10 16:33:51,698 INFO  [Log] Successfully launched the application 
+2020-07-10 16:33:57,583 INFO  [Log] Entered username: admin 
+2020-07-10 16:33:57,704 INFO  [Log] Entered Password: Livetech@123 
+2020-07-10 16:34:03,586 INFO  [Log] Click on Login 
+2020-07-10 16:42:11,969 INFO  [Log] **************************verifyLoginWithValidCredentials*********************** 
+2020-07-10 16:42:11,969 INFO  [Log] Successfully launched the Browser 
+2020-07-10 16:42:12,199 INFO  [Log] Successfully launched the application 
+2020-07-10 16:42:19,167 ERROR [Log] Failed to Login:Cannot locate an element using id=txtUsername
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-BM1NALCO', ip: '192.168.43.217', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: driver.version: RemoteWebDriver 
+2020-07-10 17:28:30,032 INFO  [Log] **************************verifyLoginWithValidCredentials*********************** 
+2020-07-10 17:28:30,033 INFO  [Log] Successfully launched the Browser 
+2020-07-10 17:28:30,279 INFO  [Log] Successfully launched the application 
+2020-07-10 17:28:34,026 ERROR [Log] Failed to Login:Cannot locate an element using id=txtUsername
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-BM1NALCO', ip: '192.168.43.217', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: driver.version: RemoteWebDriver 
+2020-07-11 12:15:44,825 INFO  [Log] **************************verifyLoginWithValidCredentials*********************** 
+2020-07-11 12:15:44,826 INFO  [Log] Successfully launched the Browser 
+2020-07-11 12:15:45,196 INFO  [Log] Successfully launched the application 
+2020-07-11 12:15:54,473 INFO  [Log] Entered username: admin 
+2020-07-11 12:15:54,588 INFO  [Log] Entered Password: Livetech@123 
+2020-07-11 12:15:59,377 INFO  [Log] Click on Login 
+2020-07-11 12:22:00,148 INFO  [Log] **************************verifyLoginWithValidCredentials*********************** 
+2020-07-11 12:22:00,149 INFO  [Log] Successfully launched the Browser 
+2020-07-11 12:22:00,457 INFO  [Log] Successfully launched the application 
+2020-07-11 12:22:05,116 INFO  [Log] Entered username: admin 
+2020-07-11 12:22:05,235 INFO  [Log] Entered Password: Livetech@123 
+2020-07-11 12:22:06,731 INFO  [Log] Click on Login 
+2020-07-11 12:23:48,291 INFO  [Log] **************************verifyLoginWithValidCredentials*********************** 
+2020-07-11 12:23:48,291 INFO  [Log] Successfully launched the Browser 
+2020-07-11 12:23:48,538 INFO  [Log] Successfully launched the application 
+2020-07-11 12:23:54,146 INFO  [Log] Entered username: admin 
+2020-07-11 12:23:54,261 INFO  [Log] Entered Password: Livetech@123 
+2020-07-11 12:23:55,428 INFO  [Log] Click on Login 
+2020-07-11 12:27:40,855 INFO  [Log] **************************verifyLoginWithValidCredentials*********************** 
+2020-07-11 12:27:40,856 INFO  [Log] Successfully launched the Browser 
+2020-07-11 12:27:41,096 INFO  [Log] Successfully launched the application 
+2020-07-11 12:27:45,134 INFO  [Log] Entered username: admin 
+2020-07-11 12:27:45,247 INFO  [Log] Entered Password: Livetech@123 
+2020-07-11 12:27:46,412 INFO  [Log] Click on Login 
+2020-07-11 13:19:28,968 INFO  [Log] **************************verifyLoginWithValidCredentials*********************** 
+2020-07-11 13:19:28,969 INFO  [Log] Successfully launched the Browser 
+2020-07-11 13:19:29,318 INFO  [Log] Successfully launched the application 
+2020-07-11 13:19:34,676 INFO  [Log] Entered username: admin 
+2020-07-11 13:19:34,867 INFO  [Log] Entered Password: Livetech@123 
+2020-07-11 13:19:36,961 INFO  [Log] Click on Login 
+2020-07-12 12:03:39,224 INFO  [Log] **************************verifyAddEmployee*********************** 
+2020-07-12 12:03:39,225 INFO  [Log] Successfully launched the Browser 
+2020-07-12 12:03:39,626 INFO  [Log] Successfully launched the application 
+2020-07-12 12:03:44,767 INFO  [Log] Entered username: admin 
+2020-07-12 12:03:44,958 INFO  [Log] Entered Password: Livetech@123 
+2020-07-12 12:03:47,141 INFO  [Log] Click on Login 
+2020-07-12 12:03:47,256 INFO  [Log] Successfully navigate to PIM 
+2020-07-12 12:03:47,371 INFO  [Log] Successfully navigate to Add Employee page 
+2020-07-12 12:04:08,925 INFO  [Log] Successfully added employee details 
+2020-07-12 12:04:10,938 INFO  [Log] Successfully navigate to Employee List 
+2020-07-12 12:04:11,106 INFO  [Log] Emp Id: 0002 
+2020-07-13 13:20:22,075 INFO  [Log] **************************verifyAddEmployee*********************** 
+2020-07-13 13:20:22,075 INFO  [Log] Successfully launched the Browser 
+2020-07-13 13:20:22,381 INFO  [Log] Successfully launched the application 
+2020-07-13 13:20:32,501 INFO  [Log] Entered username: admin 
+2020-07-13 13:20:32,613 INFO  [Log] Entered Password: Livetech@123 
+2020-07-13 13:20:39,829 INFO  [Log] Click on Login 
+2020-07-13 13:20:39,902 INFO  [Log] Successfully navigate to PIM 
+2020-07-13 13:20:39,965 INFO  [Log] Successfully navigate to Add Employee page 
+2020-07-13 13:20:52,945 INFO  [Log] Successfully added employee details 
+2020-07-13 13:20:56,031 INFO  [Log] Successfully navigate to Employee List 
+2020-07-13 13:20:56,113 INFO  [Log] Emp Id: 0003 
+2020-07-16 12:33:05,726 INFO  [Log] **************************verifyAddEmployee*********************** 
+2020-07-16 12:33:05,727 INFO  [Log] Successfully launched the Browser 
+2020-07-16 12:33:06,075 INFO  [Log] Successfully launched the application 
+2020-07-16 12:33:15,263 INFO  [Log] Entered username: admin 
+2020-07-16 12:33:15,380 INFO  [Log] Entered Password: Livetech@123 
+2020-07-16 12:33:20,299 INFO  [Log] Click on Login 
+2020-07-16 12:33:20,378 INFO  [Log] Successfully navigate to PIM 
+2020-07-16 12:33:20,458 INFO  [Log] Successfully navigate to Add Employee page 
+2020-07-16 12:33:36,670 INFO  [Log] Successfully added employee details 
+2020-07-16 12:33:38,718 INFO  [Log] Successfully navigate to Employee List 
+2020-07-16 12:33:38,818 INFO  [Log] Emp Id: 0004 
+2020-07-16 12:53:27,486 INFO  [Log] **************************verifyAddEmployee*********************** 
+2020-07-16 12:53:27,487 INFO  [Log] Successfully launched the Browser 
+2020-07-16 12:53:27,905 INFO  [Log] Successfully launched the application 
+2020-07-16 12:53:33,712 INFO  [Log] Entered username: admin 
+2020-07-16 12:53:33,904 INFO  [Log] Entered Password: Livetech@123 
+2020-07-16 12:53:36,406 INFO  [Log] Click on Login 
+2020-07-16 12:53:36,520 INFO  [Log] Successfully navigate to PIM 
+2020-07-16 12:53:36,628 INFO  [Log] Successfully navigate to Add Employee page 
+2020-07-16 12:53:47,285 INFO  [Log] Successfully added employee details 
+2020-07-16 12:53:48,533 INFO  [Log] Successfully navigate to Employee List 
+2020-07-16 12:53:48,637 INFO  [Log] Emp Id: 0005 
+2020-07-18 10:51:07,272 INFO  [Log] **************************verifyAddEmployee*********************** 
+2020-07-18 10:51:07,273 INFO  [Log] Successfully launched the Browser 
+2020-07-18 10:51:07,538 INFO  [Log] Successfully launched the application 
+2020-07-18 10:51:14,759 INFO  [Log] Entered username: admin 
+2020-07-18 10:51:14,867 INFO  [Log] Entered Password: Livetech@123 
+2020-07-18 10:51:16,673 INFO  [Log] Click on Login 
+2020-07-18 10:51:16,755 INFO  [Log] Successfully navigate to PIM 
+2020-07-18 10:51:16,836 INFO  [Log] Successfully navigate to Add Employee page 
+2020-07-18 11:53:56,854 INFO  [Log] **************************verifyAddEmployee*********************** 
+2020-07-18 11:53:56,855 INFO  [Log] Successfully launched the Browser 
+2020-07-18 11:53:57,110 INFO  [Log] Successfully launched the application 
+2020-07-18 11:54:01,770 INFO  [Log] Entered username: admin 
+2020-07-18 11:54:01,881 INFO  [Log] Entered Password: Livetech@123 
+2020-07-18 11:54:03,082 INFO  [Log] Click on Login 
+2020-07-18 11:54:03,170 INFO  [Log] Successfully navigate to PIM 
+2020-07-18 11:54:03,250 INFO  [Log] Successfully navigate to Add Employee page 
+2020-07-19 10:44:46,706 INFO  [Log] **************************verifyAddEmployee*********************** 
+2020-07-19 10:44:46,708 INFO  [Log] Successfully launched the Browser 
+2020-07-19 10:44:47,136 INFO  [Log] Successfully launched the application 
+2020-07-19 10:45:07,233 INFO  [Log] Entered username: admin 
+2020-07-19 10:45:07,431 INFO  [Log] Entered Password: Livetech@123 
+2020-07-19 10:45:16,760 INFO  [Log] Click on Login 
+2020-07-19 10:45:22,629 INFO  [Log] Successfully navigate to PIM 
+2020-07-19 10:45:27,434 INFO  [Log] Successfully navigate to Add Employee page 
+2020-07-19 10:45:32,977 INFO  [Log] Successfully added employee details 
+2020-07-19 10:45:35,020 INFO  [Log] Successfully navigate to Employee List 
+2020-07-19 10:45:35,085 INFO  [Log] Emp Id: 0006 
+2020-07-19 11:45:51,698 INFO  [Log] **************************verifyAddEmployee*********************** 
+2020-07-19 11:45:51,699 INFO  [Log] Successfully launched the Browser 
+2020-07-19 11:45:52,088 INFO  [Log] Successfully launched the application 
+2020-07-19 11:45:57,046 INFO  [Log] Entered username: admin 
+2020-07-19 11:45:57,227 INFO  [Log] Entered Password: Livetech@123 
+2020-07-19 11:45:59,795 INFO  [Log] Click on Login 
+2020-07-19 11:45:59,928 INFO  [Log] Successfully navigate to PIM 
+2020-07-19 11:46:00,069 INFO  [Log] Successfully navigate to Add Employee page 
+2020-07-20 15:15:41,027 INFO  [Log] **************************deleteEmployee*********************** 
+2020-07-20 15:15:41,034 INFO  [Log] Successfully launched the Browser 
+2020-07-20 15:15:41,360 INFO  [Log] Successfully launched the application 
+2020-07-20 15:15:45,739 INFO  [Log] Entered username: admin 
+2020-07-20 15:15:45,855 INFO  [Log] Entered Password: Livetech@123 
+2020-07-20 15:15:47,303 INFO  [Log] Click on Login 
+2020-07-20 15:15:47,375 INFO  [Log] Successfully navigate to PIM 
+2020-07-20 15:15:51,307 INFO  [Log] Successfully navigate to Add Employee page 
+2020-07-20 15:15:53,509 INFO  [Log] Successfully added employee details 
+2020-07-20 15:15:54,567 INFO  [Log] Successfully navigate to Employee List 
+2020-07-20 15:25:17,373 INFO  [Log] **************************deleteEmployee*********************** 
+2020-07-20 15:25:17,373 INFO  [Log] Successfully launched the Browser 
+2020-07-20 15:25:17,624 INFO  [Log] Successfully launched the application 
+2020-07-20 15:25:21,736 INFO  [Log] Entered username: admin 
+2020-07-20 15:25:21,841 INFO  [Log] Entered Password: Livetech@123 
+2020-07-20 15:25:23,410 INFO  [Log] Click on Login 
+2020-07-20 15:25:23,495 INFO  [Log] Successfully navigate to PIM 
+2020-07-20 15:25:27,247 INFO  [Log] Successfully navigate to Add Employee page 
+2020-07-20 15:25:29,282 INFO  [Log] Successfully added employee details 
+2020-07-20 15:25:33,554 WARN  [Log] data mismatched 
+2020-07-20 15:25:35,400 INFO  [Log] data Deleted Successfully 
+2020-07-20 15:30:28,600 INFO  [Log] **************************deleteEmployee*********************** 
+2020-07-20 15:30:28,600 INFO  [Log] Successfully launched the Browser 
+2020-07-20 15:30:28,886 INFO  [Log] Successfully launched the application 
+2020-07-20 15:30:33,334 INFO  [Log] Entered username: admin 
+2020-07-20 15:30:33,461 INFO  [Log] Entered Password: Livetech@123 
+2020-07-20 15:30:35,534 INFO  [Log] Click on Login 
+2020-07-20 15:30:35,618 INFO  [Log] Successfully navigate to PIM 
+2020-07-20 15:30:39,291 INFO  [Log] Successfully navigate to Add Employee page 
+2020-07-20 15:30:41,268 INFO  [Log] Successfully added employee details 
+2020-07-20 15:30:42,352 WARN  [Log] data mismatched 
+2020-07-20 15:30:45,434 WARN  [Log] data mismatched 
+2020-07-20 15:30:46,757 INFO  [Log] data Deleted Successfully 
+2020-07-20 15:33:12,585 INFO  [Log] **************************deleteEmployee*********************** 
+2020-07-20 15:33:12,586 INFO  [Log] Successfully launched the Browser 
+2020-07-20 15:33:12,856 INFO  [Log] Successfully launched the application 
+2020-07-20 15:33:18,910 INFO  [Log] Entered username: admin 
+2020-07-20 15:33:19,028 INFO  [Log] Entered Password: Livetech@123 
+2020-07-20 15:33:20,945 INFO  [Log] Click on Login 
+2020-07-20 15:33:22,412 INFO  [Log] Successfully navigate to PIM 
+2020-07-20 15:33:26,067 INFO  [Log] Successfully navigate to Add Employee page 
+2020-07-20 15:33:28,339 INFO  [Log] Successfully added employee details 
+2020-07-20 15:33:32,389 WARN  [Log] data mismatched 
+2020-07-20 15:33:35,454 WARN  [Log] data mismatched 
+2020-07-20 15:33:37,282 INFO  [Log] data Deleted Successfully 
+2020-07-20 15:35:07,259 INFO  [Log] **************************deleteEmployee*********************** 
+2020-07-20 15:35:07,259 INFO  [Log] Successfully launched the Browser 
+2020-07-20 15:35:07,531 INFO  [Log] Successfully launched the application 
+2020-07-20 15:35:12,839 INFO  [Log] Entered username: admin 
+2020-07-20 15:35:12,969 INFO  [Log] Entered Password: Livetech@123 
+2020-07-20 15:35:14,820 INFO  [Log] Click on Login 
+2020-07-20 15:35:14,912 INFO  [Log] Successfully navigate to PIM 
+2020-07-20 15:35:18,598 INFO  [Log] Successfully navigate to Add Employee page 
+2020-07-20 15:35:20,845 INFO  [Log] Successfully added employee details 
+2020-07-20 15:35:25,072 WARN  [Log] data mismatched 
+2020-07-20 15:35:28,145 WARN  [Log] data mismatched 
+2020-07-20 15:35:29,962 INFO  [Log] data Deleted Successfully 
+2020-07-20 15:38:41,337 INFO  [Log] **************************deleteEmployee*********************** 
+2020-07-20 15:38:41,337 INFO  [Log] Successfully launched the Browser 
+2020-07-20 15:38:41,585 INFO  [Log] Successfully launched the application 
+2020-07-20 15:38:46,523 INFO  [Log] Entered username: admin 
+2020-07-20 15:38:46,643 INFO  [Log] Entered Password: Livetech@123 
+2020-07-20 15:38:48,058 INFO  [Log] Click on Login 
+2020-07-20 15:38:48,165 INFO  [Log] Successfully navigate to PIM 
+2020-07-20 15:39:00,564 INFO  [Log] Successfully navigate to Add Employee page 
+2020-07-20 15:39:03,062 INFO  [Log] Successfully added employee details 
+2020-07-20 15:46:06,595 INFO  [Log] **************************deleteEmployee*********************** 
+2020-07-20 15:46:06,596 INFO  [Log] Successfully launched the Browser 
+2020-07-20 15:46:06,866 INFO  [Log] Successfully launched the application 
+2020-07-20 15:46:11,498 INFO  [Log] Entered username: admin 
+2020-07-20 15:46:11,613 INFO  [Log] Entered Password: Livetech@123 
+2020-07-20 15:46:13,629 INFO  [Log] Click on Login 
+2020-07-20 15:46:13,702 INFO  [Log] Successfully navigate to PIM 
+2020-07-20 15:47:00,628 INFO  [Log] Successfully navigate to Add Employee page 
+2020-07-20 15:47:03,292 INFO  [Log] Successfully added employee details 
+2020-07-23 10:49:30,825 INFO  [Log] **************************verifyLoginWithValidCredentials*********************** 
+2020-07-23 10:49:30,826 INFO  [Log] Successfully launched the Browser 
+2020-07-23 10:49:31,262 INFO  [Log] Successfully launched the application 
+2020-07-23 10:49:35,474 INFO  [Log] Entered username: admin 
+2020-07-23 10:49:35,593 INFO  [Log] Entered Password: Livetech@123 
+2020-07-23 10:49:37,519 INFO  [Log] Click on Login 
+2020-07-23 10:50:51,677 INFO  [Log] **************************verifyLoginWithValidCredentials*********************** 
+2020-07-23 10:50:51,677 INFO  [Log] Successfully launched the Browser 
+2020-07-23 10:50:52,492 INFO  [Log] Successfully launched the application 
+2020-07-23 10:50:56,922 INFO  [Log] Entered username: admin 
+2020-07-23 10:50:57,042 INFO  [Log] Entered Password: Livetech@123 
+2020-07-23 10:50:58,729 INFO  [Log] Click on Login 
+2020-07-23 10:52:32,625 INFO  [Log] **************************verifyAddEmployee*********************** 
+2020-07-23 10:52:32,626 INFO  [Log] Successfully launched the Browser 
+2020-07-23 10:52:32,871 INFO  [Log] Successfully launched the application 
+2020-07-23 10:52:37,357 INFO  [Log] Entered username: admin 
+2020-07-23 10:52:37,482 INFO  [Log] Entered Password: Livetech@123 
+2020-07-23 10:52:38,932 INFO  [Log] Click on Login 
+2020-07-23 10:52:39,005 INFO  [Log] Successfully navigate to PIM 
+2020-07-23 10:54:58,840 INFO  [Log] **************************verifyAddEmployee*********************** 
+2020-07-23 10:54:58,841 INFO  [Log] Successfully launched the Browser 
+2020-07-23 10:54:59,099 INFO  [Log] Successfully launched the application 
+2020-07-23 10:55:03,836 INFO  [Log] Entered username: admin 
+2020-07-23 10:55:03,941 INFO  [Log] Entered Password: Livetech@123 
+2020-07-23 10:55:05,577 INFO  [Log] Click on Login 
+2020-07-23 10:55:09,978 INFO  [Log] Successfully navigate to PIM 
+2020-07-23 10:55:13,649 INFO  [Log] Successfully navigate to Add Employee page 
+2020-07-23 10:55:17,306 INFO  [Log] Successfully added employee details 
+2020-07-23 10:55:18,798 INFO  [Log] Successfully navigate to Employee List 
+2020-07-23 10:55:18,877 INFO  [Log] Emp Id: 0015 
+2020-07-23 11:01:05,034 INFO  [Log] **************************deleteEmployee*********************** 
+2020-07-23 11:01:05,034 INFO  [Log] Successfully launched the Browser 
+2020-07-23 11:01:05,290 INFO  [Log] Successfully launched the application 
+2020-07-23 11:01:10,708 INFO  [Log] Entered username: admin 
+2020-07-23 11:01:10,828 INFO  [Log] Entered Password: Livetech@123 
+2020-07-23 11:01:12,180 INFO  [Log] Click on Login 
+2020-07-23 11:01:16,885 INFO  [Log] Successfully navigate to PIM 
+2020-07-23 11:01:20,637 INFO  [Log] Successfully navigate to Add Employee page 
+2020-07-23 11:01:22,693 INFO  [Log] Successfully added employee details 
+2020-07-23 11:04:10,729 INFO  [Log] **************************deleteEmployee*********************** 
+2020-07-23 11:04:10,730 INFO  [Log] Successfully launched the Browser 
+2020-07-23 11:04:10,979 INFO  [Log] Successfully launched the application 
+2020-07-23 11:04:15,604 INFO  [Log] Entered username: admin 
+2020-07-23 11:04:15,718 INFO  [Log] Entered Password: Livetech@123 
+2020-07-23 11:04:17,592 INFO  [Log] Click on Login 
+2020-07-23 11:04:22,535 INFO  [Log] Successfully navigate to PIM 
+2020-07-23 11:04:26,572 INFO  [Log] Successfully navigate to Add Employee page 
+2020-07-23 11:04:28,619 INFO  [Log] Successfully added employee details 
+2020-07-23 11:04:32,790 WARN  [Log] data mismatched 
+2020-07-23 11:08:09,778 INFO  [Log] **************************deleteEmployee*********************** 
+2020-07-23 11:08:09,779 INFO  [Log] Successfully launched the Browser 
+2020-07-23 11:08:10,033 INFO  [Log] Successfully launched the application 
+2020-07-23 11:08:14,650 INFO  [Log] Entered username: admin 
+2020-07-23 11:08:14,781 INFO  [Log] Entered Password: Livetech@123 
+2020-07-23 11:08:16,429 INFO  [Log] Click on Login 
+2020-07-23 11:08:21,000 INFO  [Log] Successfully navigate to PIM 
+2020-07-23 11:08:24,859 INFO  [Log] Successfully navigate to Add Employee page 
+2020-07-23 11:08:27,119 INFO  [Log] Successfully added employee details 
+2020-07-23 11:11:08,948 INFO  [Log] **************************deleteEmployee*********************** 
+2020-07-23 11:11:08,948 INFO  [Log] Successfully launched the Browser 
+2020-07-23 11:11:09,796 INFO  [Log] Successfully launched the application 
+2020-07-23 11:11:14,176 INFO  [Log] Entered username: admin 
+2020-07-23 11:11:14,301 INFO  [Log] Entered Password: Livetech@123 
+2020-07-23 11:11:16,183 INFO  [Log] Click on Login 
+2020-07-23 11:11:20,874 INFO  [Log] Successfully navigate to PIM 
+2020-07-23 11:11:24,643 INFO  [Log] Successfully navigate to Add Employee page 
+2020-07-23 11:11:26,946 INFO  [Log] Successfully added employee details 
+2020-07-23 11:11:32,082 WARN  [Log] data mismatched 
+2020-07-23 11:11:35,154 WARN  [Log] data mismatched 
+2020-07-23 11:11:36,882 INFO  [Log] data Deleted Successfully 
+2020-07-24 14:50:50,922 INFO  [Log] **************************deleteEmployee*********************** 
+2020-07-24 14:50:50,923 INFO  [Log] Successfully launched the Browser 
+2020-07-24 14:50:51,295 INFO  [Log] Successfully launched the application 
+2020-07-24 14:51:06,451 INFO  [Log] Entered username: admin 
+2020-07-24 14:51:06,629 INFO  [Log] Entered Password: Livetech@123 
+2020-07-24 14:51:17,008 INFO  [Log] Click on Login 
+2020-07-24 14:51:24,813 INFO  [Log] Successfully navigate to PIM 
+2020-07-24 14:51:29,596 INFO  [Log] Successfully navigate to Add Employee page 
+2020-07-24 14:51:35,616 INFO  [Log] Successfully added employee details 
+2020-07-24 14:51:40,320 WARN  [Log] data mismatched 
+2020-07-24 14:51:43,390 WARN  [Log] data mismatched 
+2020-07-24 14:51:45,623 INFO  [Log] data Deleted Successfully 
+2020-07-24 20:17:24,342 INFO  [Log] **************************verifyLoginWithValidCredentials*********************** 
+2020-07-24 20:17:24,342 INFO  [Log] Successfully launched the Browser 
+2020-07-24 20:17:28,936 INFO  [Log] Successfully launched the application 
+2020-07-24 20:17:29,125 INFO  [Log] Entered username: Admin 
+2020-07-24 20:17:29,228 INFO  [Log] Entered Password: admin123 
+2020-07-24 20:17:39,684 INFO  [Log] Click on Login 
+2020-07-25 12:08:45,120 INFO  [Log] **************************verifyAddEmployee*********************** 
+2020-07-25 12:08:45,120 INFO  [Log] Successfully launched the Browser 
+2020-07-25 12:08:45,520 INFO  [Log] Successfully launched the application 
+2020-07-25 12:08:52,169 INFO  [Log] Entered username: admin 
+2020-07-25 12:08:52,392 INFO  [Log] Entered Password: Livetech@123 
+2020-07-25 12:08:54,839 INFO  [Log] Click on Login 
+2020-07-25 12:09:06,857 INFO  [Log] Successfully navigate to PIM 
+2020-07-25 12:09:11,204 INFO  [Log] Successfully navigate to Add Employee page 
+2020-07-25 12:09:14,486 INFO  [Log] Successfully added employee details 
+2020-07-25 12:09:16,025 INFO  [Log] Successfully navigate to Employee List 
+2020-07-25 12:09:16,117 INFO  [Log] Emp Id: 0022 
+2020-07-26 12:47:14,974 INFO  [Log] **************************deleteEmployee*********************** 
+2020-07-26 12:47:14,976 INFO  [Log] Successfully launched the Browser 
+2020-07-26 12:47:15,444 INFO  [Log] Successfully launched the application 
+2020-07-26 12:47:29,896 INFO  [Log] Entered username: admin 
+2020-07-26 12:47:30,098 INFO  [Log] Entered Password: Livetech@123 
+2020-07-26 12:47:39,306 INFO  [Log] Click on Login 
+2020-07-26 12:47:47,141 INFO  [Log] Successfully navigate to PIM 
+2020-07-26 12:47:52,054 INFO  [Log] Successfully navigate to Add Employee page 
+2020-07-26 12:47:58,667 INFO  [Log] Successfully added employee details 
+2020-07-26 12:48:03,361 WARN  [Log] data mismatched 
+2020-07-26 12:48:06,441 WARN  [Log] data mismatched 
+2020-07-26 12:48:08,762 INFO  [Log] data Deleted Successfully 
+2020-07-27 10:24:36,119 INFO  [Log] **************************verifyLoginWithValidCredentials*********************** 
+2020-07-27 10:24:36,120 INFO  [Log] Successfully launched the Browser 
+2020-07-27 10:24:36,377 INFO  [Log] Successfully launched the application 
+2020-07-27 10:24:46,860 INFO  [Log] Entered username: admin 
+2020-07-27 10:24:46,976 INFO  [Log] Entered Password: Livetech@123 
+2020-07-27 10:24:52,357 INFO  [Log] Click on Login 
+2020-07-27 10:28:37,953 INFO  [Log] **************************verifyLoginWithValidCredentials*********************** 
+2020-07-27 10:28:37,953 INFO  [Log] Successfully launched the Browser 
+2020-07-27 10:28:38,218 INFO  [Log] Successfully launched the application 
+2020-07-27 10:28:43,117 INFO  [Log] Entered username: admin 
+2020-07-27 10:28:43,227 INFO  [Log] Entered Password: Livetech@123 
+2020-07-27 10:28:45,314 INFO  [Log] Click on Login 
+2020-07-27 10:33:57,879 INFO  [Log] **************************verifyLoginWithValidCredentials*********************** 
+2020-07-27 10:33:57,880 INFO  [Log] Successfully launched the Browser 
+2020-07-27 10:33:58,144 INFO  [Log] Successfully launched the application 
+2020-07-27 10:34:02,853 INFO  [Log] Entered username: admin 
+2020-07-27 10:34:02,961 INFO  [Log] Entered Password: Livetech@123 
+2020-07-27 10:34:04,544 INFO  [Log] Click on Login 
+2020-07-27 10:37:17,673 INFO  [Log] **************************verifyLoginWithValidCredentials*********************** 
+2020-07-27 10:37:17,674 INFO  [Log] Successfully launched the Browser 
+2020-07-27 10:37:17,988 INFO  [Log] Successfully launched the application 
+2020-07-27 10:37:22,917 INFO  [Log] Entered username: admin 
+2020-07-27 10:37:23,037 INFO  [Log] Entered Password: Livetech@123 
+2020-07-27 10:37:24,426 INFO  [Log] Click on Login 
+2020-07-27 10:37:24,536 INFO  [Log] Verified Welcome message 
+2020-07-27 10:41:24,800 INFO  [Log] **************************verifyLoginWithValidCredentials*********************** 
+2020-07-27 10:41:24,800 INFO  [Log] Successfully launched the Browser 
+2020-07-27 10:41:25,060 INFO  [Log] Successfully launched the application 
+2020-07-27 10:41:30,261 INFO  [Log] Entered username: admin 
+2020-07-27 10:41:30,371 INFO  [Log] Entered Password: Livetech@123 
+2020-07-27 10:41:31,930 INFO  [Log] Click on Login 
+2020-07-27 10:41:32,038 INFO  [Log] Verified Welcome message 
+2020-07-27 10:50:44,758 INFO  [Log] **************************verifyLoginWithValidCredentials*********************** 
+2020-07-27 10:50:44,759 INFO  [Log] Successfully launched the Browser 
+2020-07-27 10:50:45,098 INFO  [Log] Successfully launched the application 
+2020-07-27 10:50:56,927 INFO  [Log] Entered username: admin 
+2020-07-27 10:50:57,036 INFO  [Log] Entered Password: Livetech@123 
+2020-07-27 10:51:04,403 INFO  [Log] Click on Login 
+2020-07-27 10:51:04,514 INFO  [Log] Verified Welcome message 
+2020-07-27 10:54:38,583 INFO  [Log] **************************verifyLoginWithValidCredentials*********************** 
+2020-07-27 10:54:38,583 INFO  [Log] Successfully launched the Browser 
+2020-07-27 10:54:38,920 INFO  [Log] Successfully launched the application 
+2020-07-27 10:54:43,681 INFO  [Log] Entered username: admin 
+2020-07-27 10:54:43,794 INFO  [Log] Entered Password: Livetech@123 
+2020-07-27 10:54:45,774 INFO  [Log] Click on Login 
+2020-07-27 10:54:45,889 INFO  [Log] Verified Welcome message 
+2020-07-27 11:03:42,501 INFO  [Log] **************************verifyAddEmployee*********************** 
+2020-07-27 11:03:42,502 INFO  [Log] Successfully launched the Browser 
+2020-07-27 11:03:42,784 INFO  [Log] Successfully launched the application 
+2020-07-27 11:03:49,795 INFO  [Log] Entered username: admin 
+2020-07-27 11:03:49,917 INFO  [Log] Entered Password: Livetech@123 
+2020-07-27 11:03:51,556 INFO  [Log] Click on Login 
+2020-07-27 11:03:51,736 INFO  [Log] Successfully navigate to PIM 
+2020-07-27 11:03:51,817 INFO  [Log] Successfully navigate to Add Employee page 
+2020-07-27 11:11:59,011 INFO  [Log] **************************verifyAddEmployee*********************** 
+2020-07-27 11:11:59,012 INFO  [Log] Successfully launched the Browser 
+2020-07-27 11:12:00,054 INFO  [Log] Successfully launched the application 
+2020-07-27 11:12:04,530 INFO  [Log] Entered username: admin 
+2020-07-27 11:12:04,653 INFO  [Log] Entered Password: Livetech@123 
+2020-07-27 11:12:06,111 INFO  [Log] Click on Login 
+2020-07-27 11:12:06,265 INFO  [Log] Successfully navigate to PIM 
+2020-07-27 11:12:06,347 INFO  [Log] Successfully navigate to Add Employee page 
+2020-07-27 11:15:29,654 INFO  [Log] **************************verifyAddEmployee*********************** 
+2020-07-27 11:15:29,655 INFO  [Log] Successfully launched the Browser 
+2020-07-27 11:15:29,974 INFO  [Log] Successfully launched the application 
+2020-07-27 11:15:30,063 ERROR [Log] Failed to Login:no such element: Unable to locate element: {"method":"css selector","selector":"#txtUsername"}
+  (Session info: chrome=84.0.4147.89)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-BM1NALCO', ip: '192.168.43.217', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.89, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\SOUMYA~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:15400}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 96c5e5db38d50d6cab3658f3f2b0ff56
+*** Element info: {Using=id, value=txtUsername} 
+2020-07-27 11:17:34,456 INFO  [Log] **************************verifyAddEmployee*********************** 
+2020-07-27 11:17:34,457 INFO  [Log] Successfully launched the Browser 
+2020-07-27 11:17:34,794 INFO  [Log] Successfully launched the application 
+2020-07-27 11:17:39,984 INFO  [Log] Entered username: admin 
+2020-07-27 11:17:40,117 INFO  [Log] Entered Password: Livetech@123 
+2020-07-27 11:17:41,710 INFO  [Log] Click on Login 
+2020-07-27 11:17:41,870 INFO  [Log] Successfully navigate to PIM 
+2020-07-27 11:17:41,950 INFO  [Log] Successfully navigate to Add Employee page 
+2020-07-27 11:23:42,200 INFO  [Log] **************************verifyAddEmployee*********************** 
+2020-07-27 11:23:42,201 INFO  [Log] Successfully launched the Browser 
+2020-07-27 11:23:43,031 INFO  [Log] Successfully launched the application 
+2020-07-27 11:23:47,374 INFO  [Log] Entered username: admin 
+2020-07-27 11:23:47,488 INFO  [Log] Entered Password: Livetech@123 
+2020-07-27 11:23:49,560 INFO  [Log] Click on Login 
+2020-07-27 11:23:49,736 INFO  [Log] Successfully navigate to PIM 
+2020-07-27 11:23:49,815 INFO  [Log] Successfully navigate to Add Employee page 
+2020-07-27 11:24:03,739 INFO  [Log] Successfully added employee details 
+2020-07-27 11:24:06,899 INFO  [Log] Successfully navigate to Employee List 
+2020-07-27 11:24:06,943 INFO  [Log] Emp Id: 0024 
+2020-07-27 11:25:34,823 INFO  [Log] **************************verifyAddEmployee*********************** 
+2020-07-27 11:25:34,824 INFO  [Log] Successfully launched the Browser 
+2020-07-27 11:25:35,052 INFO  [Log] Successfully launched the application 
+2020-07-27 11:25:39,124 INFO  [Log] Entered username: admin 
+2020-07-27 11:25:39,244 INFO  [Log] Entered Password: Livetech@123 
+2020-07-27 11:25:40,753 INFO  [Log] Click on Login 
+2020-07-27 11:25:40,901 INFO  [Log] Successfully navigate to PIM 
+2020-07-27 11:25:40,965 INFO  [Log] Successfully navigate to Add Employee page 
+2020-07-27 11:31:43,772 INFO  [Log] **************************verifyAddEmployee*********************** 
+2020-07-27 11:31:43,772 INFO  [Log] Successfully launched the Browser 
+2020-07-27 11:31:44,036 INFO  [Log] Successfully launched the application 
+2020-07-27 11:31:48,590 INFO  [Log] Entered username: admin 
+2020-07-27 11:31:48,705 INFO  [Log] Entered Password: Livetech@123 
+2020-07-27 11:31:50,498 INFO  [Log] Click on Login 
+2020-07-27 11:31:50,651 INFO  [Log] Successfully navigate to PIM 
+2020-07-27 11:31:50,714 INFO  [Log] Successfully navigate to Add Employee page 
+2020-07-27 11:40:06,751 INFO  [Log] **************************verifyAddEmployee*********************** 
+2020-07-27 11:40:06,752 INFO  [Log] Successfully launched the Browser 
+2020-07-27 11:40:07,051 INFO  [Log] Successfully launched the application 
+2020-07-27 11:40:11,747 INFO  [Log] Entered username: admin 
+2020-07-27 11:40:11,865 INFO  [Log] Entered Password: Livetech@123 
+2020-07-27 11:40:13,312 INFO  [Log] Click on Login 
+2020-07-27 11:40:13,612 INFO  [Log] Successfully navigate to PIM 
+2020-07-27 11:40:14,513 INFO  [Log] Successfully navigate to Add Employee page 
+2020-07-27 11:40:16,610 INFO  [Log] Successfully added employee details 
+2020-07-27 11:40:17,790 INFO  [Log] Successfully navigate to Employee List 
+2020-07-27 11:40:18,021 INFO  [Log] Emp Id: 0025 
+2020-07-30 10:56:21,390 INFO  [Log] **************************verifyLoginWithValidCredentials*********************** 
+2020-07-30 10:56:21,391 INFO  [Log] Successfully launched the Browser 
+2020-07-30 10:56:21,659 INFO  [Log] Successfully launched the application 
+2020-07-30 10:56:31,220 INFO  [Log] Entered username: admin 
+2020-07-30 10:56:31,330 INFO  [Log] Entered Password: Livetech@123 
+2020-07-30 10:56:35,940 INFO  [Log] Click on Login 
+2020-07-30 10:56:36,067 INFO  [Log] Verified Welcome message 
+2020-07-30 10:56:42,247 INFO  [Log] Logged out successfully 
+2020-07-30 11:12:31,623 INFO  [Log] **************************verifyLoginWithValidCredentials*********************** 
+2020-07-30 11:12:31,624 INFO  [Log] Successfully launched the Browser 
+2020-07-30 11:12:31,879 INFO  [Log] Successfully launched the application 
+2020-07-30 11:12:38,259 INFO  [Log] Entered username: admin 
+2020-07-30 11:12:38,386 INFO  [Log] Entered Password: Livetech@123 
+2020-07-30 11:12:39,653 INFO  [Log] Click on Login 
+2020-07-30 11:12:39,778 INFO  [Log] Verified Welcome message 
+2020-07-30 11:12:43,522 INFO  [Log] Logged out successfully 
+2020-07-30 11:16:46,126 INFO  [Log] **************************deleteEmployee*********************** 
+2020-07-30 11:16:46,126 INFO  [Log] Successfully launched the Browser 
+2020-07-30 11:16:46,438 INFO  [Log] Successfully launched the application 
+2020-07-30 11:16:50,939 INFO  [Log] Entered username: admin 
+2020-07-30 11:16:51,090 INFO  [Log] Entered Password: Livetech@123 
+2020-07-30 11:16:52,294 INFO  [Log] Click on Login 
+2020-07-30 11:16:55,540 INFO  [Log] Successfully navigate to PIM 
+2020-07-30 11:16:59,689 INFO  [Log] Successfully navigate to Add Employee page 
+2020-07-30 11:17:02,343 INFO  [Log] Successfully added employee details 
+2020-07-30 11:17:07,475 WARN  [Log] data mismatched 
+2020-07-30 11:17:10,515 WARN  [Log] data mismatched 
+2020-07-30 11:17:11,624 INFO  [Log] data Deleted Successfully 
+2020-07-30 11:22:04,990 INFO  [Log] **************************deleteEmployee*********************** 
+2020-07-30 11:22:04,990 INFO  [Log] Successfully launched the Browser 
+2020-07-30 11:22:05,481 INFO  [Log] Successfully launched the application 
+2020-07-30 11:22:10,389 INFO  [Log] Entered username: admin 
+2020-07-30 11:22:10,521 INFO  [Log] Entered Password: Livetech@123 
+2020-07-30 11:22:11,974 INFO  [Log] Click on Login 
+2020-07-30 11:22:15,196 INFO  [Log] Successfully navigate to PIM 
+2020-07-30 11:22:18,996 INFO  [Log] Successfully navigate to Add Employee page 
+2020-07-30 11:22:21,058 INFO  [Log] Successfully added employee details 
+2020-07-30 11:31:56,953 INFO  [Log] **************************deleteEmployee*********************** 
+2020-07-30 11:31:56,954 INFO  [Log] Successfully launched the Browser 
+2020-07-30 11:31:57,201 INFO  [Log] Successfully launched the application 
+2020-07-30 11:32:00,523 ERROR [Log] Failed to Login:Cannot locate an element using id=txtUsername
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-BM1NALCO', ip: '192.168.43.217', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: driver.version: RemoteWebDriver 
+2020-07-30 11:38:11,486 INFO  [Log] **************************deleteEmployee*********************** 
+2020-07-30 11:38:11,487 INFO  [Log] Successfully launched the Browser 
+2020-07-30 11:38:11,750 INFO  [Log] Successfully launched the application 
+2020-07-30 11:38:16,640 INFO  [Log] Entered username: admin 
+2020-07-30 11:38:16,751 INFO  [Log] Entered Password: Livetech@123 
+2020-07-30 11:38:18,019 INFO  [Log] Click on Login 
+2020-07-30 11:38:21,245 INFO  [Log] Successfully navigate to PIM 
+2020-07-30 11:38:25,007 INFO  [Log] Successfully navigate to Add Employee page 
+2020-07-30 11:38:26,552 INFO  [Log] Successfully added employee details 
+2020-07-30 11:38:27,188 INFO  [Log] Added EmpID is :0028 
+2020-07-30 11:45:03,028 INFO  [Log] **************************deleteEmployee*********************** 
+2020-07-30 11:45:03,028 INFO  [Log] Successfully launched the Browser 
+2020-07-30 11:45:03,270 INFO  [Log] Successfully launched the application 
+2020-07-30 11:45:07,599 INFO  [Log] Entered username: admin 
+2020-07-30 11:45:07,730 INFO  [Log] Entered Password: Livetech@123 
+2020-07-30 11:45:09,049 INFO  [Log] Click on Login 
+2020-07-30 11:45:12,269 INFO  [Log] Successfully navigate to PIM 
+2020-07-30 11:45:15,910 INFO  [Log] Successfully navigate to Add Employee page 
+2020-07-30 11:45:17,554 INFO  [Log] Successfully added employee details 
+2020-07-30 11:45:18,187 INFO  [Log] Added EmpID is :0029 
+2020-07-30 11:48:47,553 INFO  [Log] **************************deleteEmployee*********************** 
+2020-07-30 11:48:47,554 INFO  [Log] Successfully launched the Browser 
+2020-07-30 11:48:47,794 INFO  [Log] Successfully launched the application 
+2020-07-30 11:48:52,553 INFO  [Log] Entered username: admin 
+2020-07-30 11:48:52,680 INFO  [Log] Entered Password: Livetech@123 
+2020-07-30 11:48:54,002 INFO  [Log] Click on Login 
+2020-07-30 11:48:57,223 INFO  [Log] Successfully navigate to PIM 
+2020-07-30 11:49:38,644 INFO  [Log] **************************deleteEmployee*********************** 
+2020-07-30 11:49:38,645 INFO  [Log] Successfully launched the Browser 
+2020-07-30 11:49:38,904 INFO  [Log] Successfully launched the application 
+2020-07-30 11:49:43,775 INFO  [Log] Entered username: admin 
+2020-07-30 11:49:43,890 INFO  [Log] Entered Password: Livetech@123 
+2020-07-30 11:49:45,114 INFO  [Log] Click on Login 
+2020-07-30 11:49:48,332 INFO  [Log] Successfully navigate to PIM 
+2020-07-30 11:50:49,254 INFO  [Log] **************************deleteEmployee*********************** 
+2020-07-30 11:50:49,255 INFO  [Log] Successfully launched the Browser 
+2020-07-30 11:50:49,523 INFO  [Log] Successfully launched the application 
+2020-07-30 11:50:54,011 INFO  [Log] Entered username: admin 
+2020-07-30 11:50:54,120 INFO  [Log] Entered Password: Livetech@123 
+2020-07-30 11:50:55,330 INFO  [Log] Click on Login 
+2020-07-30 11:50:58,559 INFO  [Log] Successfully navigate to PIM 
+2020-07-30 11:51:02,209 INFO  [Log] Successfully navigate to Add Employee page 
+2020-07-30 11:51:03,772 INFO  [Log] Successfully added employee details 
+2020-07-30 11:51:04,428 INFO  [Log] Added EmpID is :0030 
+2020-07-30 11:57:22,402 INFO  [Log] **************************deleteEmployee*********************** 
+2020-07-30 11:57:22,402 INFO  [Log] Successfully launched the Browser 
+2020-07-30 11:57:22,648 INFO  [Log] Successfully launched the application 
+2020-07-30 11:57:27,355 INFO  [Log] Entered username: admin 
+2020-07-30 11:57:27,483 INFO  [Log] Entered Password: Livetech@123 
+2020-07-30 11:57:28,902 INFO  [Log] Click on Login 
+2020-07-30 11:57:32,116 INFO  [Log] Successfully navigate to PIM 
+2020-07-30 11:57:35,780 INFO  [Log] Successfully navigate to Add Employee page 
+2020-07-30 11:57:37,567 INFO  [Log] Successfully added employee details 
+2020-07-30 11:57:38,231 INFO  [Log] Added EmpID is :0031 
+2020-07-30 12:01:50,980 INFO  [Log] **************************deleteEmployee*********************** 
+2020-07-30 12:01:50,981 INFO  [Log] Successfully launched the Browser 
+2020-07-30 12:01:51,236 INFO  [Log] Successfully launched the application 
+2020-07-30 12:01:55,969 INFO  [Log] Entered username: admin 
+2020-07-30 12:01:56,097 INFO  [Log] Entered Password: Livetech@123 
+2020-07-30 12:01:57,328 INFO  [Log] Click on Login 
+2020-07-30 12:02:00,547 INFO  [Log] Successfully navigate to PIM 
+2020-07-30 12:02:04,220 INFO  [Log] Successfully navigate to Add Employee page 
+2020-07-30 12:02:05,757 INFO  [Log] Successfully added employee details 
+2020-07-30 12:02:06,397 INFO  [Log] Added EmpID is :0032 
+2020-07-30 12:02:06,584 INFO  [Log]  EmpID to search is : 
+2020-07-30 12:17:34,289 INFO  [Log] **************************deleteEmployee*********************** 
+2020-07-30 12:17:34,289 INFO  [Log] Successfully launched the Browser 
+2020-07-30 12:17:34,526 INFO  [Log] Successfully launched the application 
+2020-07-30 12:17:39,665 INFO  [Log] Entered username: admin 
+2020-07-30 12:17:39,785 INFO  [Log] Entered Password: Livetech@123 
+2020-07-30 12:17:41,146 INFO  [Log] Click on Login 
+2020-07-30 12:17:44,363 INFO  [Log] Successfully navigate to PIM 
+2020-07-30 12:17:48,046 INFO  [Log] Successfully navigate to Add Employee page 
+2020-07-30 12:17:49,844 INFO  [Log] Successfully added employee details 
+2020-07-30 12:17:50,510 INFO  [Log] Added EmpID is :0033 
+2020-07-30 12:20:49,753 INFO  [Log] **************************deleteEmployee*********************** 
+2020-07-30 12:20:49,753 INFO  [Log] Successfully launched the Browser 
+2020-07-30 12:20:50,052 INFO  [Log] Successfully launched the application 
+2020-07-30 12:20:54,169 INFO  [Log] Entered username: admin 
+2020-07-30 12:20:54,306 INFO  [Log] Entered Password: Livetech@123 
+2020-07-30 12:20:55,640 INFO  [Log] Click on Login 
+2020-07-30 12:20:58,871 INFO  [Log] Successfully navigate to PIM 
+2020-07-30 12:21:39,207 INFO  [Log] **************************deleteEmployee*********************** 
+2020-07-30 12:21:39,207 INFO  [Log] Successfully launched the Browser 
+2020-07-30 12:21:39,454 INFO  [Log] Successfully launched the application 
+2020-07-30 12:21:44,119 INFO  [Log] Entered username: admin 
+2020-07-30 12:21:44,234 INFO  [Log] Entered Password: Livetech@123 
+2020-07-30 12:21:45,567 INFO  [Log] Click on Login 
+2020-07-30 12:21:48,800 INFO  [Log] Successfully navigate to PIM 
+2020-07-30 12:21:52,439 INFO  [Log] Successfully navigate to Add Employee page 
+2020-07-30 12:21:53,964 INFO  [Log] Successfully added employee details 
+2020-07-30 12:21:54,641 INFO  [Log] Added EmpID is :0034 
+2020-07-30 12:24:06,737 INFO  [Log] **************************deleteEmployee*********************** 
+2020-07-30 12:24:06,737 INFO  [Log] Successfully launched the Browser 
+2020-07-30 12:24:06,961 INFO  [Log] Successfully launched the application 
+2020-07-30 12:24:11,109 INFO  [Log] Entered username: admin 
+2020-07-30 12:24:11,225 INFO  [Log] Entered Password: Livetech@123 
+2020-07-30 12:24:12,532 INFO  [Log] Click on Login 
+2020-07-30 12:24:15,767 INFO  [Log] Successfully navigate to PIM 
+2020-07-30 12:24:19,383 INFO  [Log] Successfully navigate to Add Employee page 
+2020-07-30 12:24:20,967 INFO  [Log] Successfully added employee details 
+2020-07-30 12:24:21,599 INFO  [Log] Added EmpID is :0035 
+2020-07-30 12:24:21,759 INFO  [Log]  EmpID to search is : 
+2020-07-30 12:33:09,860 INFO  [Log] **************************deleteEmployee*********************** 
+2020-07-30 12:33:09,861 INFO  [Log] Successfully launched the Browser 
+2020-07-30 12:33:10,338 INFO  [Log] Successfully launched the application 
+2020-07-30 12:33:15,117 INFO  [Log] Entered username: admin 
+2020-07-30 12:33:15,308 INFO  [Log] Entered Password: Livetech@123 
+2020-07-30 12:33:17,518 INFO  [Log] Click on Login 
+2020-07-30 12:33:20,839 INFO  [Log] Successfully navigate to PIM 
+2020-07-30 12:33:25,113 INFO  [Log] Successfully navigate to Add Employee page 
+2020-07-30 12:33:28,372 INFO  [Log] Successfully added employee details 
+2020-07-30 12:33:29,729 INFO  [Log] Added EmpID is :0036 
+2020-07-30 12:33:29,998 INFO  [Log]  EmpID to search is : 
+2020-07-30 12:37:59,267 INFO  [Log] **************************deleteEmployee*********************** 
+2020-07-30 12:37:59,268 INFO  [Log] Successfully launched the Browser 
+2020-07-30 12:37:59,675 INFO  [Log] Successfully launched the application 
+2020-07-30 12:38:05,189 INFO  [Log] Entered username: admin 
+2020-07-30 12:38:05,385 INFO  [Log] Entered Password: Livetech@123 
+2020-07-30 12:38:08,076 INFO  [Log] Click on Login 
+2020-07-30 12:38:11,387 INFO  [Log] Successfully navigate to PIM 
+2020-07-30 12:38:15,663 INFO  [Log] Successfully navigate to Add Employee page 
+2020-07-30 12:38:19,655 INFO  [Log] Successfully added employee details 
+2020-07-30 12:38:21,162 INFO  [Log] Added EmpID is :0037 
+2020-07-30 12:38:21,364 INFO  [Log]  EmpID to search is :null 
+2020-07-30 12:42:55,744 INFO  [Log] **************************deleteEmployee*********************** 
+2020-07-30 12:42:55,746 INFO  [Log] Successfully launched the Browser 
+2020-07-30 12:42:56,179 INFO  [Log] Successfully launched the application 
+2020-07-30 12:43:01,572 INFO  [Log] Entered username: admin 
+2020-07-30 12:43:01,769 INFO  [Log] Entered Password: Livetech@123 
+2020-07-30 12:43:04,027 INFO  [Log] Click on Login 
+2020-07-30 12:43:07,379 INFO  [Log] Successfully navigate to PIM 
+2020-07-30 12:43:11,867 INFO  [Log] Successfully navigate to Add Employee page 
+2020-07-30 12:43:15,079 INFO  [Log] Successfully added employee details 
+2020-07-30 12:43:16,433 INFO  [Log] Added EmpID is :0038 
+2020-07-30 12:47:47,759 INFO  [Log] **************************deleteEmployee*********************** 
+2020-07-30 12:47:47,760 INFO  [Log] Successfully launched the Browser 
+2020-07-30 12:47:48,121 INFO  [Log] Successfully launched the application 
+2020-07-30 12:47:54,167 INFO  [Log] Entered username: admin 
+2020-07-30 12:47:54,361 INFO  [Log] Entered Password: Livetech@123 
+2020-07-30 12:47:56,554 INFO  [Log] Click on Login 
+2020-07-30 12:47:59,888 INFO  [Log] Successfully navigate to PIM 
+2020-07-30 12:48:04,024 INFO  [Log] Successfully navigate to Add Employee page 
+2020-07-30 12:48:07,167 INFO  [Log] Successfully added employee details 
+2020-07-30 12:48:08,577 INFO  [Log] Added EmpID is :0039 
+2020-07-30 12:48:13,038 WARN  [Log] data mismatched 
+2020-07-30 12:48:16,113 WARN  [Log] data mismatched 
+2020-07-30 12:48:18,277 INFO  [Log] data Deleted Successfully 
+2020-07-30 12:56:39,743 INFO  [Log] **************************deleteEmployee*********************** 
+2020-07-30 12:56:39,744 INFO  [Log] Successfully launched the Browser 
+2020-07-30 12:56:40,157 INFO  [Log] Successfully launched the application 
+2020-07-30 12:56:45,074 INFO  [Log] Entered username: admin 
+2020-07-30 12:56:45,268 INFO  [Log] Entered Password: Livetech@123 
+2020-07-30 12:56:47,557 INFO  [Log] Click on Login 
+2020-07-30 12:56:47,902 INFO  [Log] Successfully navigate to PIM 
+2020-07-30 12:56:49,356 INFO  [Log] Successfully navigate to Add Employee page 
+2020-07-30 12:56:52,369 INFO  [Log] Successfully added employee details 
+2020-07-30 12:56:53,717 INFO  [Log] Added EmpID is :0040 
+2020-07-30 12:56:55,155 WARN  [Log] data mismatched 
+2020-07-30 12:56:55,265 WARN  [Log] data mismatched 
+2020-07-30 12:56:57,226 INFO  [Log] data Deleted Successfully 
+2020-07-30 19:41:31,368 INFO  [Log] **************************deleteEmployee*********************** 
+2020-07-30 19:41:31,369 INFO  [Log] Successfully launched the Browser 
+2020-07-30 19:41:31,637 INFO  [Log] Successfully launched the application 
+2020-07-30 19:41:36,986 INFO  [Log] Entered username: admin 
+2020-07-30 19:41:37,109 INFO  [Log] Entered Password: Livetech@123 
+2020-07-30 19:41:38,589 INFO  [Log] Click on Login 
+2020-07-30 19:41:38,870 INFO  [Log] Successfully navigate to PIM 
+2020-07-30 19:41:39,717 INFO  [Log] Successfully navigate to Add Employee page 
+2020-07-30 19:41:41,669 INFO  [Log] Successfully added employee details 
+2020-07-30 19:41:42,574 INFO  [Log] Added EmpID is :0042 
+2020-07-30 19:41:43,697 WARN  [Log] data mismatched 
+2020-07-30 19:41:43,771 WARN  [Log] data mismatched 
+2020-07-30 19:41:45,434 INFO  [Log] data Deleted Successfully 
+2020-07-30 19:49:13,487 INFO  [Log] **************************verifyLoginWithValidCredentials*********************** 
+2020-07-30 19:49:13,489 INFO  [Log] Successfully launched the Browser 
+2020-07-30 19:49:13,806 INFO  [Log] Successfully launched the application 
+2020-07-30 19:49:18,898 INFO  [Log] Entered username: admin 
+2020-07-30 19:49:19,036 INFO  [Log] Entered Password: Livetech@123 
+2020-07-30 19:49:20,790 INFO  [Log] Click on Login 
+2020-07-30 19:49:20,941 INFO  [Log] Verified Welcome message 
+2020-07-30 19:49:29,503 INFO  [Log] Logged out successfully 
+2020-07-31 11:07:54,182 INFO  [Log] **************************verifyLoginWithValidCredentials*********************** 
+2020-07-31 11:07:54,187 INFO  [Log] Successfully launched the Browser 
+2020-07-31 11:07:54,456 INFO  [Log] Successfully launched the application 
+2020-07-31 11:08:06,122 INFO  [Log] Entered username: admin 
+2020-07-31 11:08:06,244 INFO  [Log] Entered Password: Livetech@123 
+2020-07-31 11:08:10,998 INFO  [Log] Click on Login 
+2020-07-31 11:08:11,118 INFO  [Log] Verified Welcome message 
+2020-07-31 11:08:11,332 INFO  [Log] Logged out successfully 
+2020-07-31 11:13:47,484 INFO  [Log] **************************verifyLoginWithValidCredentials*********************** 
+2020-07-31 11:13:47,484 INFO  [Log] Successfully launched the Browser 
+2020-07-31 11:13:47,720 INFO  [Log] Successfully launched the application 
+2020-07-31 11:13:52,568 INFO  [Log] Entered username: admin 
+2020-07-31 11:13:52,678 INFO  [Log] Entered Password: Livetech@123 
+2020-07-31 11:13:53,887 INFO  [Log] Click on Login 
+2020-07-31 11:13:54,007 INFO  [Log] Verified Welcome message 
+2020-07-31 11:13:54,737 INFO  [Log] Logged out successfully 
+2020-07-31 12:17:13,179 INFO  [Log] **************************verifyLoginWithValidCredentials*********************** 
+2020-07-31 12:17:13,180 INFO  [Log] Successfully launched the Browser 
+2020-07-31 12:17:13,422 INFO  [Log] Successfully launched the application 
+2020-07-31 12:17:18,582 INFO  [Log] Entered username: admin 
+2020-07-31 12:17:18,692 INFO  [Log] Entered Password: Livetech@123 
+2020-07-31 12:17:19,957 INFO  [Log] Click on Login 
+2020-07-31 12:17:21,522 INFO  [Log] Successfully close the browser 
+2020-07-31 12:17:21,523 INFO  [Log] **************************End********************** 
