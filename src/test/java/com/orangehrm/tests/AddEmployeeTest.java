@@ -24,7 +24,7 @@ public class AddEmployeeTest extends BaseTest  {
 		//Thread.sleep(3000);
 		addEmployeePage.navigateToAddEmployee(getDriver());
 		
-		String expectedEmpId = addEmployeePage.addEmployeeDetails("Rajesh","Sahu",getDriver());
+		String expectedEmpId = addEmployeePage.addEmployeeDetails("Mona","mama",getDriver());
 		ExtentReportUtil.logStep(Status.INFO, "Successfully Added the employee");
 		
 		EmployeelistPage employeeListPage = new EmployeelistPage(getDriver());

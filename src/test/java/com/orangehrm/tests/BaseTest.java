@@ -14,6 +14,7 @@ import org.testng.annotations.AfterMethod;
 import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeSuite;
+import org.testng.annotations.Parameters;
 
 import com.aventstack.extentreports.MediaEntityBuilder;
 import com.aventstack.extentreports.Status;
@@ -49,6 +50,7 @@ public class BaseTest {
 				System.setProperty("webdriver.chrome.driver",
 						System.getProperty("user.dir") + PropertyUtil.readProperty("chromeDriverPath"));
 				driver = new ChromeDriver();
+				driver.manage().window().maximize();
 
 			} else if (browserName.equalsIgnoreCase("firefox")) {
 				System.setProperty("webdriver.gecko.driver",

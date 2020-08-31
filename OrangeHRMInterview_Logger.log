@@ -701,3 +701,101 @@ Driver info: driver.version: RemoteWebDriver
 2020-07-31 12:17:19,957 INFO  [Log] Click on Login 
 2020-07-31 12:17:21,522 INFO  [Log] Successfully close the browser 
 2020-07-31 12:17:21,523 INFO  [Log] **************************End********************** 
+2020-08-14 20:36:45,952 INFO  [Log] **************************verifyAddEmployee*********************** 
+2020-08-14 20:36:45,953 INFO  [Log] Successfully launched the Browser 
+2020-08-14 20:36:46,208 INFO  [Log] Successfully launched the application 
+2020-08-14 20:36:57,337 INFO  [Log] Entered username: admin 
+2020-08-14 20:36:57,451 INFO  [Log] Entered Password: Livetech@123 
+2020-08-14 20:37:03,807 INFO  [Log] Click on Login 
+2020-08-14 20:37:04,046 INFO  [Log] Successfully navigate to PIM 
+2020-08-14 20:37:06,477 INFO  [Log] Successfully navigate to Add Employee page 
+2020-08-14 20:37:10,098 INFO  [Log] Successfully added employee details 
+2020-08-14 20:37:12,490 INFO  [Log] Successfully navigate to Employee List 
+2020-08-14 20:37:12,533 INFO  [Log] Emp Id: 0043 
+2020-08-14 20:37:13,179 INFO  [Log] Successfully close the browser 
+2020-08-14 20:37:13,180 INFO  [Log] **************************End********************** 
+2020-08-15 11:41:27,616 ERROR [Log] Failed to Login:no such element: Unable to locate element: {"method":"css selector","selector":"#txtUsername"}
+  (Session info: chrome=84.0.4147.125)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-BM1NALCO', ip: '192.168.43.217', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.125, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\SOUMYA~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:61224}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 5bc64409daed7b1266d578f8d23542e6
+*** Element info: {Using=id, value=txtUsername} 
+2020-08-15 11:42:32,037 ERROR [Log] Failed to Login:no such element: Unable to locate element: {"method":"css selector","selector":"#txtUsername"}
+  (Session info: chrome=84.0.4147.125)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-BM1NALCO', ip: '192.168.43.217', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.125, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\SOUMYA~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:61291}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: a5970991128d0b840f378e2136314221
+*** Element info: {Using=id, value=txtUsername} 
+2020-08-15 11:46:37,736 INFO  [Log] **************************verifyAddEmployee*********************** 
+2020-08-15 11:46:37,737 INFO  [Log] Successfully launched the Browser 
+2020-08-15 11:46:38,000 INFO  [Log] Successfully launched the application 
+2020-08-15 11:46:43,192 INFO  [Log] Entered username: admin 
+2020-08-15 11:46:43,303 INFO  [Log] Entered Password: Livetech@123 
+2020-08-15 11:46:44,622 INFO  [Log] Click on Login 
+2020-08-15 11:46:44,864 INFO  [Log] Successfully navigate to PIM 
+2020-08-15 11:46:45,660 INFO  [Log] Successfully navigate to Add Employee page 
+2020-08-15 11:46:48,895 INFO  [Log] Successfully added employee details 
+2020-08-15 11:46:50,645 INFO  [Log] Successfully navigate to Employee List 
+2020-08-15 11:46:50,711 INFO  [Log] Emp Id: 0044 
+2020-08-15 11:46:51,368 INFO  [Log] Successfully close the browser 
+2020-08-15 11:46:51,368 INFO  [Log] **************************End********************** 
+2020-08-15 15:08:36,983 INFO  [Log] **************************verifyAddEmployee*********************** 
+2020-08-15 15:08:37,032 INFO  [Log] Successfully launched the Browser 
+2020-08-15 15:08:37,441 INFO  [Log] Successfully launched the application 
+2020-08-15 15:08:42,309 INFO  [Log] Entered username: admin 
+2020-08-15 15:08:42,520 INFO  [Log] Entered Password: Livetech@123 
+2020-08-15 15:08:45,152 INFO  [Log] Click on Login 
+2020-08-15 15:08:45,441 INFO  [Log] Successfully navigate to PIM 
+2020-08-15 15:08:46,839 INFO  [Log] Successfully navigate to Add Employee page 
+2020-08-15 15:08:50,652 INFO  [Log] Successfully added employee details 
+2020-08-15 15:08:53,027 INFO  [Log] Successfully navigate to Employee List 
+2020-08-15 15:08:53,224 INFO  [Log] Emp Id: 0046 
+2020-08-15 15:08:54,038 INFO  [Log] Successfully close the browser 
+2020-08-15 15:08:54,039 INFO  [Log] **************************End********************** 
+2020-08-19 19:45:15,588 INFO  [Log] **************************verifyAddEmployee*********************** 
+2020-08-19 19:45:15,590 INFO  [Log] Successfully launched the Browser 
+2020-08-19 19:45:16,072 INFO  [Log] Successfully launched the application 
+2020-08-19 19:45:32,907 INFO  [Log] Entered username: admin 
+2020-08-19 19:45:33,110 INFO  [Log] Entered Password: Livetech@123 
+2020-08-19 19:45:44,092 INFO  [Log] Click on Login 
+2020-08-19 19:45:44,659 INFO  [Log] Successfully navigate to PIM 
+2020-08-19 19:45:48,262 INFO  [Log] Successfully navigate to Add Employee page 
+2020-08-19 19:45:55,278 INFO  [Log] Successfully added employee details 
+2020-08-19 19:46:01,490 INFO  [Log] Successfully navigate to Employee List 
+2020-08-19 19:46:01,720 INFO  [Log] Emp Id: 0047 
+2020-08-19 19:46:02,596 INFO  [Log] Successfully close the browser 
+2020-08-19 19:46:02,596 INFO  [Log] **************************End********************** 
+2020-08-28 12:06:15,132 INFO  [Log] **************************verifyLoginWithValidCredentials*********************** 
+2020-08-28 12:06:15,133 INFO  [Log] Successfully launched the Browser 
+2020-08-28 12:06:15,370 INFO  [Log] Successfully launched the application 
+2020-08-28 12:06:20,723 INFO  [Log] Entered username: admin 
+2020-08-28 12:06:20,836 INFO  [Log] Entered Password: Livetech@123 
+2020-08-28 12:06:25,500 INFO  [Log] Click on Login 
+2020-08-28 12:06:25,620 INFO  [Log] Verified Welcome message 
+2020-08-28 12:06:26,672 INFO  [Log] Logged out successfully 
+2020-08-28 12:06:27,309 INFO  [Log] Successfully close the browser 
+2020-08-28 12:06:27,310 INFO  [Log] **************************End********************** 
+2020-08-28 12:09:19,082 INFO  [Log] **************************verifyLoginWithValidCredentials*********************** 
+2020-08-28 12:09:19,083 INFO  [Log] Successfully launched the Browser 
+2020-08-28 12:09:19,324 INFO  [Log] Successfully launched the application 
+2020-08-28 12:09:23,556 INFO  [Log] Entered username: admin 
+2020-08-28 12:09:23,677 INFO  [Log] Entered Password: Livetech@123 
+2020-08-28 12:09:25,082 INFO  [Log] Click on Login 
+2020-08-28 12:09:26,684 INFO  [Log] Successfully close the browser 
+2020-08-28 12:09:26,684 INFO  [Log] **************************End********************** 
+2020-08-28 12:26:10,272 INFO  [Log] **************************verifyLoginWithValidCredentials*********************** 
+2020-08-28 12:26:10,273 INFO  [Log] Successfully launched the Browser 
+2020-08-28 12:26:10,516 INFO  [Log] Successfully launched the application 
+2020-08-28 12:26:14,776 INFO  [Log] Entered username: admin 
+2020-08-28 12:26:14,890 INFO  [Log] Entered Password: Livetech@123 
+2020-08-28 12:26:16,096 INFO  [Log] Click on Login 
+2020-08-28 12:26:16,220 INFO  [Log] Verified Welcome message 
+2020-08-28 12:26:17,013 INFO  [Log] Logged out successfully 
+2020-08-28 12:26:17,989 INFO  [Log] Successfully close the browser 
+2020-08-28 12:26:17,989 INFO  [Log] **************************End********************** 

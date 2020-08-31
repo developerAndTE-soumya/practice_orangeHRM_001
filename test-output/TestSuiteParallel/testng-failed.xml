@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [TestSuiteParallel]" parallel="methods">
+  <test thread-count="2" name="testParallel(failed)" parallel="methods">
+    <classes>
+      <class name="com.orangehrm.tests.ParallelTestExecutionExample">
+        <methods>
+          <include name="executeInFireFox"/>
+          <include name="initialization"/>
+        </methods>
+      </class> <!-- com.orangehrm.tests.ParallelTestExecutionExample -->
+    </classes>
+  </test> <!-- testParallel(failed) -->
+</suite> <!-- Failed suite [TestSuiteParallel] -->
