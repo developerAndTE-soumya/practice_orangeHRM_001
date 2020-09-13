@@ -1,4 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 22.067 s - in TestSuite
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 51.957 s <<< FAILURE! - in TestSuite
+verifyAddEmployee(com.orangehrm.tests.AddEmployeeTest)  Time elapsed: 24.986 s  <<< FAILURE!
+java.lang.AssertionError: Verify employee record in Web Table expected [0053] but found [null]
+	at com.orangehrm.tests.AddEmployeeTest.verifyAddEmployee(AddEmployeeTest.java:36)
+

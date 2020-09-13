@@ -3,16 +3,16 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.orangehrm.tests.LoginTest">
+      <class name="com.orangehrm.tests.DeleteEmployeeTest">
         <methods>
           <include name="tearDown"/>
           <include name="openBrowser"/>
           <include name="openApplication"/>
-          <include name="verifyLoginWithValidCredentials"/>
           <include name="closeBrowser"/>
+          <include name="deleteEmployee"/>
           <include name="intialize"/>
         </methods>
-      </class> <!-- com.orangehrm.tests.LoginTest -->
+      </class> <!-- com.orangehrm.tests.DeleteEmployeeTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

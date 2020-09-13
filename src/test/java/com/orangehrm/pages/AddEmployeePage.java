@@ -9,6 +9,7 @@ import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import com.orangehrm.utilities.Log;
@@ -36,6 +37,21 @@ public class AddEmployeePage {
 	@FindBy(id = "employeeId")
 	private WebElement txtEmployeeId;
 
+	@FindBy(xpath = "//input[@id='chkLogin']")
+	private WebElement chkBoxCrtLgnDtls;
+
+	@FindBy(xpath = "//input[@id='user_name']")
+	private WebElement txtUserName;
+
+	@FindBy(xpath = "//input[@id='user_password']")
+	private WebElement txtPassword;
+
+	@FindBy(xpath = "//input[@id='re_password']")
+	private WebElement txtConfPassword;
+
+	@FindBy(xpath = "//select[@id='status']")
+	private WebElement drpDwnStatus;
+
 	public AddEmployeePage(WebDriver driver) {
 		PageFactory.initElements(driver, this);
 	}
@@ -49,15 +65,17 @@ public class AddEmployeePage {
 	}
 
 	public void navigateToAddEmployee(WebDriver driver) {
+		WebDriverWait wait = new WebDriverWait(driver, 10);
+		wait.until(ExpectedConditions.elementToBeClickable(linkAddEmployee));
 		Actions obj = new Actions(driver);
 		obj.moveToElement(linkAddEmployee).build().perform();
 		linkAddEmployee.click();
 		Log.info("Successfully navigate to Add Employee page");
 	}
 
-	public String addEmployeeDetails(String fname, String lname, WebDriver driver) {
-		WebDriverWait wait = new WebDriverWait(driver, 10);
-		btnSave = wait.until(ExpectedConditions.visibilityOf(btnSave));
+	public String addEmployeeDetails(String fname, String lname, String userName, String password, String cnfpassword,
+			String status, WebDriver driver) {
+
 		txtFirstName.sendKeys(fname);
 		txtLastName.sendKeys(lname);
 		JavascriptExecutor js = (JavascriptExecutor) driver;
@@ -71,9 +89,24 @@ public class AddEmployeePage {
 			e.printStackTrace();
 		}
 		String expectedEmpId = txtEmployeeId.getAttribute("value");
+		clickCreateLoginDetailsChkBox();
+		txtUserName.sendKeys(userName);
+		txtPassword.sendKeys(password);
+		txtConfPassword.sendKeys(cnfpassword);
+		selectValueFromStatusDrpDwn(status);
+		WebDriverWait wait = new WebDriverWait(driver, 10);
+		btnSave = wait.until(ExpectedConditions.visibilityOf(btnSave));
 		btnSave.click();
-		Log.info("Successfully added employee details");
 		return expectedEmpId;
+	}
+
+	public void clickCreateLoginDetailsChkBox() {
+		chkBoxCrtLgnDtls.click();
+	}
+
+	public void selectValueFromStatusDrpDwn(String value) {
+		Select drpdwn_status = new Select(drpDwnStatus);
+		drpdwn_status.selectByValue(value);
 	}
 
 }

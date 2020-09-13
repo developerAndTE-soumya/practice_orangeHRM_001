@@ -20,10 +20,11 @@ public class DeleteEmployeeTest extends BaseTest {
 		addEmployeePage.navigateToPim(getDriver());
 		addEmployeePage.navigateToAddEmployee(getDriver());
 
-		String addedEmpId = addEmployeePage.addEmployeeDetails("Soumya", "Prakash", getDriver());
+		String addedEmpId = addEmployeePage.addEmployeeDetails("Adarsh","hota","Adarsh@123","Adarshhota@1","Adarshhota@1","Disabled",getDriver());
 		ExtentReportUtil.logStep(Status.INFO, "Successfully Added the employee");
 
 		DeleteEmployee deleteEmployeepageObj = new DeleteEmployee(getDriver());
+		Thread.sleep(3000);
 		deleteEmployeepageObj.search(addedEmpId, getDriver());
 		deleteEmployeepageObj.verifyEmployee(getDriver());
 		ExtentReportUtil.logStep(Status.INFO, "Successfully verified the Employee");

@@ -7,20 +7,20 @@ import java.util.concurrent.TimeUnit;
 import org.apache.log4j.xml.DOMConfigurator;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
+import org.openqa.selenium.remote.CapabilityType;
 import org.testng.ITestResult;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeSuite;
-import org.testng.annotations.Parameters;
 
 import com.aventstack.extentreports.MediaEntityBuilder;
 import com.aventstack.extentreports.Status;
 import com.orangehrm.reports.ExtentReportUtil;
 import com.orangehrm.reports.ScreenShotUtil;
-import com.orangehrm.utilities.ExcelUtil;
 import com.orangehrm.utilities.Log;
 import com.orangehrm.utilities.PropertyUtil;
 
@@ -29,53 +29,57 @@ public class BaseTest {
 
 	public WebDriver getDriver() {
 		return driver;
-	}                                                      
+	}
 
 	@BeforeSuite
 	public void intialize() throws IOException {
 		DOMConfigurator.configure("log4j.xml");
 		PropertyUtil.intializePropertyFile();
-		ExcelUtil.initilizeExcel();	
+		// ExcelUtil.initilizeExcel();
 		ExtentReportUtil.intitalizeExtent();
 	}
+
 	@BeforeMethod
 	public void openBrowser(Method method) {
 		ExtentReportUtil.addTestCaseInExtentReport(method.getName());
-		//String runMode = PropertyUtil.readProperty("runMode");
-		
+		// String runMode = PropertyUtil.readProperty("runMode");
+
 		String browserName = PropertyUtil.readProperty("browserName");
-		//if (runMode.equalsIgnoreCase("Local")) {
+		// if (runMode.equalsIgnoreCase("Local")) {
 
-			if (browserName.equalsIgnoreCase("Chrome")) {
-				System.setProperty("webdriver.chrome.driver",
-						System.getProperty("user.dir") + PropertyUtil.readProperty("chromeDriverPath"));
-				driver = new ChromeDriver();
-				driver.manage().window().maximize();
+		if (browserName.equalsIgnoreCase("Chrome")) {
+			System.setProperty("webdriver.chrome.driver",
+					System.getProperty("user.dir") + PropertyUtil.readProperty("chromeDriverPath"));
+			ChromeOptions capability = new ChromeOptions();
+			capability.setCapability(CapabilityType.ACCEPT_SSL_CERTS, true);
+			capability.setCapability(CapabilityType.ACCEPT_INSECURE_CERTS,true);
 
-			} else if (browserName.equalsIgnoreCase("firefox")) {
-				System.setProperty("webdriver.gecko.driver",
-						System.getProperty("user.dir") + PropertyUtil.readProperty("firefoxDriverPath"));
-				driver = new FirefoxDriver();
+			driver = new ChromeDriver(capability);
+			driver.manage().window().maximize();
 
-			} else if (browserName.equalsIgnoreCase("ie")) {
-				System.setProperty("webdriver.ie.driver",
-						System.getProperty("user.dir") + PropertyUtil.readProperty("ieDriverPath"));
-				driver = new InternetExplorerDriver();
+		} else if (browserName.equalsIgnoreCase("firefox")) {
+			System.setProperty("webdriver.gecko.driver",
+					System.getProperty("user.dir") + PropertyUtil.readProperty("firefoxDriverPath"));
+			driver = new FirefoxDriver();
 
-			} else {
-				Log.error(
-						"Looks like you provided Invalid Browser Name.PLease check config file for the property -->browserName");
-			}
-		//}
-			/* else if (runMode.equalsIgnoreCase("Grid")) {
-			String hubUrl = PropertyUtil.readProperty("HubUrl");
-			if (browserName.equalsIgnoreCase("chrome")) {
-				DesiredCapabilities capability = DesiredCapabilities.chrome();
-				capability.setBrowserName("chrome");
-				capability.setPlatform(Platform.WINDOWS);
-				driver = new RemoteWebDriver(new URL(hubUrl), capability);
-			}
-		}*/
+		} else if (browserName.equalsIgnoreCase("ie")) {
+			System.setProperty("webdriver.ie.driver",
+					System.getProperty("user.dir") + PropertyUtil.readProperty("ieDriverPath"));
+			driver = new InternetExplorerDriver();
+
+		} else {
+			Log.error(
+					"Looks like you provided Invalid Browser Name.PLease check config file for the property -->browserName");
+		}
+		// }
+		/*
+		 * else if (runMode.equalsIgnoreCase("Grid")) { String hubUrl =
+		 * PropertyUtil.readProperty("HubUrl"); if
+		 * (browserName.equalsIgnoreCase("chrome")) { DesiredCapabilities capability =
+		 * DesiredCapabilities.chrome(); capability.setBrowserName("chrome");
+		 * capability.setPlatform(Platform.WINDOWS); driver = new RemoteWebDriver(new
+		 * URL(hubUrl), capability); } }
+		 */
 
 		Log.startTestCase(method.getName());
 		Log.info("Successfully launched the Browser");
@@ -85,6 +89,7 @@ public class BaseTest {
 		driver.manage().timeouts().implicitlyWait(time, TimeUnit.SECONDS);
 
 	}
+
 	@BeforeMethod(dependsOnMethods = "openBrowser")
 	public void openApplication() {
 
@@ -93,6 +98,7 @@ public class BaseTest {
 		ExtentReportUtil.logStep(Status.INFO, "Successfully launch the application");
 
 	}
+
 	@AfterMethod
 	public void closeBrowser(ITestResult result) {
 
@@ -110,10 +116,10 @@ public class BaseTest {
 		ExtentReportUtil.logStep(Status.INFO, "Successfully close the browser");
 		Log.endTestCase();
 	}
+
 	@AfterSuite
 	public void tearDown() {
 		ExtentReportUtil.endReport();
 	}
 
-    
 }

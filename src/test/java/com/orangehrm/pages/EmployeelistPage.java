@@ -39,6 +39,7 @@ public class EmployeelistPage {
 			actualEmpId = null;
 		}
 		Log.info("Emp Id: " + actualEmpId);
+		Log.info("Successfully added and verified the Employee");
 		return actualEmpId;
 	}
 

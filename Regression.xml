@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="RegressionTestSuite">
+	<test name="RegressionTest">
+		<classes>
+			<class name="com.orangehrm.tests.LoginTest" />
+
+			<class name="com.orangehrm.tests.AddEmployeeTest" />
+			<class name="com.orangehrm.tests.DeleteEmployeeTest" />
+		</classes>
+	</test>
+</suite>
